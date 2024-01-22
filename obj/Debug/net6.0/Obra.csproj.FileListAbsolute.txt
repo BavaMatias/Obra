@@ -1,0 +1,14 @@
+C:\Users\Matias Bava\Desktop\Obra\bin\Debug\net6.0\Obra.exe
+C:\Users\Matias Bava\Desktop\Obra\bin\Debug\net6.0\Obra.deps.json
+C:\Users\Matias Bava\Desktop\Obra\bin\Debug\net6.0\Obra.runtimeconfig.json
+C:\Users\Matias Bava\Desktop\Obra\bin\Debug\net6.0\Obra.dll
+C:\Users\Matias Bava\Desktop\Obra\bin\Debug\net6.0\Obra.pdb
+C:\Users\Matias Bava\Desktop\Obra\obj\Debug\net6.0\Obra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias Bava\Desktop\Obra\obj\Debug\net6.0\Obra.AssemblyInfoInputs.cache
+C:\Users\Matias Bava\Desktop\Obra\obj\Debug\net6.0\Obra.AssemblyInfo.cs
+C:\Users\Matias Bava\Desktop\Obra\obj\Debug\net6.0\Obra.csproj.CoreCompileInputs.cache
+C:\Users\Matias Bava\Desktop\Obra\obj\Debug\net6.0\Obra.dll
+C:\Users\Matias Bava\Desktop\Obra\obj\Debug\net6.0\refint\Obra.dll
+C:\Users\Matias Bava\Desktop\Obra\obj\Debug\net6.0\Obra.pdb
+C:\Users\Matias Bava\Desktop\Obra\obj\Debug\net6.0\Obra.genruntimeconfig.cache
+C:\Users\Matias Bava\Desktop\Obra\obj\Debug\net6.0\ref\Obra.dll
